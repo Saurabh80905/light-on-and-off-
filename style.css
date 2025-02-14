@@ -1,0 +1,23 @@
+#parent{
+    margin-top: 150px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+#child{
+    
+    height: 300px;
+    width: 300px;
+    border: 4px solid;
+    border-radius: 50%;
+    color: silver;
+    
+}
+button{
+    height: 40px;
+    width: 50px;
+    padding: 10px 10px;
+    font-family: 5px;
+    margin: 40% ;
+    margin-top: 20px;
+}
